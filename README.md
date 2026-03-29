@@ -8,7 +8,7 @@ A beauty store with customizable products
 - User-friendly Tkinter GUI
 
 - # Demo
-- 
+  
 <img width="1018" height="532" alt="image" src="https://github.com/user-attachments/assets/ccd0867d-9d34-4ded-a9d2-d06becdbf07a" />
 
 <img width="1020" height="537" alt="image" src="https://github.com/user-attachments/assets/0f711b0f-84a0-4667-a803-cb0660b0a3f0" />
